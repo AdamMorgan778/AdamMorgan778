@@ -4,7 +4,7 @@ I am Adam from the UK, I currently work for Spatial Consultants as a Geospatial 
 ## Skills and Experience
 * 🌎 ArcGIS Pro, ArcGIS Online
 * 💻 Python, R
-* 📊 matplotlib, seaborn, plotly, ggplot2, SPSS
+* 📊 matplotlib, ggplot2, SPSS, Power BI
 
 ## Examples of Work
 
