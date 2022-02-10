@@ -1,5 +1,5 @@
 # Adam Morgan
-I'm Adam from the UK, I currently work for Spatial Consultants as a Geospatial Data Analyst. I enjoy learning languages and statistical methods to find insights within data to drive buisness decisions. I am currently learning GIS, Machine Learning, and Statistics and hope to begin an MSc related to Geospatial Data Science this year.  
+Hi, I'm Adam from the UK; I am currently working for Spatial Consultants as a Geospatial Data Analyst. I enjoy learning new data-driven solutions to geographical problems. I have a strong passion for GIS, Machine Learning, and Statistics and hope to begin an MSc related to Geospatial Data Science this year.
 
 ## Skills and Experience
 * 🌎 ArcGIS Pro, ArcGIS Online
